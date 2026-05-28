@@ -111,7 +111,5 @@ This dashboard directly supports the needs of Operations and Monitoring teams by
 
 ---
 
-*Created by Zahra Ahmadi — Data Analytics student at University of Campania "Luigi Vanvitelli" | Data Analytics Intern at IoTilize.me*
-
 [![GitHub](https://img.shields.io/badge/GitHub-zahraahmadi12-181717?logo=github)](https://github.com/zahraahmadi12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahra%20Ahmadi-0A66C2?logo=linkedin)](https://linkedin.com/in/zahra-ahmadi-0579aa328)
