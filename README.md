@@ -109,6 +109,8 @@ This dashboard directly supports the needs of Operations and Monitoring teams by
 
 **Key columns used:** Ticket Status, Ticket Priority, Ticket Type, Ticket Channel, Customer Satisfaction Rating, First Response Time, Time to Resolution, Ticket Date
 
+
+![Dashboard Preview](Dashboard.png)
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-zahraahmadi12-181717?logo=github)](https://github.com/zahraahmadi12)
